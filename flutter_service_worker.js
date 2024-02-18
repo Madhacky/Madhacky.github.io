@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e503f99b7a2e64dc53a75f83430331fe
 "assets/AssetManifest.bin.json": "ab4f66226d99a7d54f8e63d5ebfa70c8",
 "assets/AssetManifest.json": "94e2977702ed596c50bc409ff40cc7b9",
 "assets/assets/hadithBook.png": "e99970561c673838c5dafbcd948a6242",
-"assets/assets/logo.png": "78153dc34de41af5ee22fde76dd8ce42",
+"assets/assets/logo.png": "da1a8607ef087388d7651e374cc0340a",
 "assets/assets/readHadith.json": "936934c016279fa5eedd484a02382ed0",
 "assets/assets/staytuned.json": "18225484b57b34c50accf43ad5b0aa85",
 "assets/assets/underContruction.gif": "f6844bce34cfe6f1fa0fa7ae9ceb82b6",
@@ -30,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e503f99b7a2e64dc53a75f83430331fe
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "27b3e83d8bb688f3683ad8cfb05e74fe",
-"/": "27b3e83d8bb688f3683ad8cfb05e74fe",
-"main.dart.js": "8c1b0729b3b7cf96e6cec3b840a58907",
+"index.html": "04a99cd055b669f135c4f1ccae38fecc",
+"/": "04a99cd055b669f135c4f1ccae38fecc",
+"main.dart.js": "bea34d06555d8d61fb1f5c8864579803",
 "manifest.json": "042504802ef7e6588e4bcada89c52620",
 "version.json": "de149d66ae9ca8ad4beb333ed4f234cb"};
 // The application shell files that are downloaded before a service worker can
