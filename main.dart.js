@@ -84650,7 +84650,7 @@ $1(a){var s=null,r=t.p,q=A.cY(A.a([A.aww(),A.na("assets/logo.png",125,s)],r),B.a
 o=A.cY(A.a([new A.bz(B.fd,p,s),A.dW(s,new A.oL(A.aum(m,B.cp,5,n,!1,A.a9(new A.a5($.h3,new A.asm(),k),!0,k.i("b0.E")),a.gvE(),l,t.N),s),B.r,s,s,new A.cu(B.cp,s,s,o,s,s,B.af),s,s,s,B.dR,s)],r),B.b_,B.y)
 l=a.ay
 l===$&&A.b()
-l=A.a([q,o,new A.dl(l,!1,A.atc(a,"Search Keyword..","SELECT BOOK",new A.asn(a),new A.aso(a)),s)],r)
+l=A.a([q,o,new A.dl(l,!1,A.atc(a,"Enter Hadith Number...","SELECT BOOK",new A.asn(a),new A.aso(a)),s)],r)
 if(a.cx===B.d_){q=this.a
 l.push(A.dU(A.dc(A.a([A.a9R("assets/waiting.json",q.d*0.5,q.b*0.5),A.aG("Type Something To Search...",s,s,s,A.bq().$0(),s,s)],r),B.a4,B.a9,B.y),s,s))}if(a.cx===B.d0){r=a.fy
 r===$&&A.b()
